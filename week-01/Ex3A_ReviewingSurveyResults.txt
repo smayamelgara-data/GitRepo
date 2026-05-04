@@ -1,42 +1,42 @@
 1. What conclusion can you reach about the responses to this question?
-Most people arrive ahead of time to check their technology and make sure to be prepared for the meeting in the correct setting and posture. 
+Most people arrive ahead of time to check their technology and make sure to be prepared for the meeting in the correct setting and posture.
 
 2. Is the default summary or visualization helpful? How could it be improved?
 
-Yes the donut chart is very helpful as it is a clear representation of the amount of people voted yes and no. You can make a clear percentage of the responses of people. It could be improved on when inserting the other written prompt, it could group the same answers together to group and create a separate category. 
+Yes the donut chart is very helpful as it is a clear representation of the amount of people voted yes and no. You can make a clear percentage of the responses of people. It could be improved on when inserting the other written prompt, it could group the same answers together to group and create a separate category.
 
 3. For questions with an “Other” option, where can you find the actual text of those
 responses? Do you notice anything that might be tricky about analyzing these?
 
-Within the "more details" option. The only thing tricky about analyzing these is that each response was spelled or wrote differently. This also shows no word count or restrictions in the options written prompt. It also shows all the results and doesn't group them by category. 
+Within the "more details" option. The only thing tricky about analyzing these is that each response was spelled or wrote differently. This also shows no word count or restrictions in the options written prompt. It also shows all the results and doesn't group them by category.
 
 4. For questions calling for a written response, what challenges do you notice about
 finding trends or patterns in the answers provided?
 
-The formatting of these questions is very different. There is no word count so they also very in size. Hard to generate useful insights when all of the answers are formatted differently. Capitalization, syntax and grammatical errors could effect results. 
+The formatting of these questions is very different. There is no word count so they also very in size. Hard to generate useful insights when all of the answers are formatted differently. Capitalization, syntax and grammatical errors could effect results.
 
 5. Now that you can see the responses, how might you recommend rephrasing this or
 question or the response options in a future survey?
 
-I would rewrite the question as "Please provide one question you have on this course or module. If none please write N/A" 
-Keeping it simple and clear would give more precise answers in order to give efficiency in analyzing the data. 
+I would rewrite the question as "Please provide one question you have on this course or module. If none please write N/A"
+Keeping it simple and clear would give more precise answers in order to give efficiency in analyzing the data.
 
 6. Is there anything that surprised you about the survey responses?
 
-The dramatic differences in responses as well as the similarities in the class responses. Everyone having different background and experiences it was interesting to see how many of us did have other technology resources as well as different concerns about the course. 
+The dramatic differences in responses as well as the similarities in the class responses. Everyone having different background and experiences it was interesting to see how many of us did have other technology resources as well as different concerns about the course.
 
 7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
 include in your morning routine, or any questions that you are also curious about?
 
-Absolutely, making sure to check your internet connection is an important task to do before a meeting as well as making sure the environment you are in has no distractions. I am curious about the answers to some of the questions my peers asked. 
+Absolutely, making sure to check your internet connection is an important task to do before a meeting as well as making sure the environment you are in has no distractions. I am curious about the answers to some of the questions my peers asked.
 
 8. Pretend you are the instructor. Is there anything you can learn from this survey to help
 in how you approach teaching this class?
 
-Half of my class doesn't have an extra screen which is important to note, as well as mostly everyone is taking notes on pen and paper so eye contact could be affected which is worth noting. Its also nice to know how the class prepares before class, it showed everyone does have their own routine for their success, which would help me instruct better as well. 
+Half of my class doesn't have an extra screen which is important to note, as well as mostly everyone is taking notes on pen and paper so eye contact could be affected which is worth noting. Its also nice to know how the class prepares before class, it showed everyone does have their own routine for their success, which would help me instruct better as well.
 
 9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
 make this survey anonymous? Why or why not? (If you can see both pros and cons,
 you may include both.)
 
-It is only helpful to place the students as anonymous, if other students will have access to class responses. This makes sure that no one is feeling anxious and like an outlier. As for questions it's definitely helpful to know the student asking the question, in order to answer and provide help to the person individually. 
+It is only helpful to place the students as anonymous, if other students will have access to class responses. This makes sure that no one is feeling anxious and like an outlier. As for questions it's definitely helpful to know the student asking the question, in order to answer and provide help to the person individually.

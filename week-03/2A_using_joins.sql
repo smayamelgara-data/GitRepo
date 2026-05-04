@@ -54,8 +54,7 @@ orders that included Sasquatch Ale.
 has a sneaky space in the name, so you will need to surround it with backticks, like
 this: `table name`)*/
 
-SELECT Orders.OrderID, OrderDate, ShipName, ShipAddress,
-ProductName
+SELECT Orders.OrderID, OrderDate, ShipName, ShipAddress, ProductName
 FROM Orders
 JOIN `order details`
     ON Orders.OrderID = `order details`.OrderID

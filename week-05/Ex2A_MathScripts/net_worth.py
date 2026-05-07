@@ -22,3 +22,9 @@ net_worth = total_assets - total_debt
 print("Your total assets are ", total_assets )
 print("Your total debt is ", total_debt)
 print("Your total net worth is ", net_worth)
+
+#Lab 4: Adding an f-string within the net_worth python file 
+
+print(f"Your total assets are {total_assets} ")
+print(f"Your total debt is {total_debt}")
+print(f"Your total net worth is {net_worth}")

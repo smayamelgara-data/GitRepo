@@ -20,3 +20,7 @@ match code:
         print("Customer Relations")
     case _:
         print("Invalid department code")
+
+#My first script used if/elif/else, and my second script used match/case.
+#Both scripts solve the problem correctly. I think match/case is easier to read because each department code is clearly listed in its own case.
+#I would keep my script simple and make sure I include a default option for invalid department codes.

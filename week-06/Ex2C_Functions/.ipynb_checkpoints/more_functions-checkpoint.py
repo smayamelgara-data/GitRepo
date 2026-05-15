@@ -101,3 +101,4 @@ def display_receipt2(amount_paid, *totals):
 #Test Bonus Receipt 
 display_receipt2(100,25,30,15)
 
+
